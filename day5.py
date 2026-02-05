@@ -1,4 +1,5 @@
 a=input("Enter a number : ")
 print(type(a),a)
+print("after converting to int")
 b=int(a)
 print(type(b),b)
