@@ -1,0 +1,10 @@
+a=int(input("Enter first a number : "))
+b=int(input("Enter secound a number : "))
+
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"*",b,"=",a*b)
+print(a,"/",b,"=",a/b)
+print(a,"//",b,"=",a//b)
+print(a,"**",b,"=",a**b)
+print(a,"%",b,"=",a%b)
