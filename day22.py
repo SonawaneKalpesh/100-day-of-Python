@@ -5,7 +5,7 @@ n= abs(num)
 
 while n > 0 :
     digit =n % 10
-    total =digit
+    total = total + digit
     n//=10
 
 print("sum of digit ",total)
