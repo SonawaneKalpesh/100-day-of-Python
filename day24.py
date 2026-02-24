@@ -1,5 +1,6 @@
 import random
 print("guess the number")
+n=None
 r=random.randint(1,100)
 while n!=r:
     n=int(input("enter the number"))
